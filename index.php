@@ -7,7 +7,7 @@
 
 </head>
 <body>
-    <h1>Word Frequency Counter</h1>
+    <h1>Samantha's Word Frequency Counter</h1>
     
     
     <form action="process.php" method="post">
